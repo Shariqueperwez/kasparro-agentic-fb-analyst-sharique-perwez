@@ -1,0 +1,9 @@
+[
+  {
+    "issue": "Creative Fatigue",
+    "reasoning": "CTR dropped from 5.0% to 1.5% in the last week while spend remained constant.",
+    "confidence": 0.95,
+    "validation": "Validated: CTR dropped -40.0%.",
+    "is_validated": true
+  }
+]
