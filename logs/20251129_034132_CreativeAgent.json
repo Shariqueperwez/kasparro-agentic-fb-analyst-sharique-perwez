@@ -1,0 +1,19 @@
+{
+  "timestamp": "20251129_034132",
+  "agent": "CreativeAgent",
+  "input": "Write new ads based on [] and []",
+  "output": {
+    "recommendations": [
+      {
+        "headline": "Last Chance: Summer BOGO",
+        "primary_text": "Our best-selling styles are almost gone. Buy 1 Get 1 Free ends tonight!",
+        "rationale": "Uses urgency to counter fatigue."
+      },
+      {
+        "headline": "Join 5,000+ Happy Customers",
+        "primary_text": "See why everyone is switching to our breathable fabric. 5-Star comfort guaranteed.",
+        "rationale": "Leverages social proof."
+      }
+    ]
+  }
+}
