@@ -1,0 +1,7 @@
+pandas
+openai
+pydantic
+pyyaml
+numpy
+python-dotenv
+tabulate
