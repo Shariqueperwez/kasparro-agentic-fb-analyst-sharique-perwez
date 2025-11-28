@@ -1,0 +1,14 @@
+data:
+  path: "data/synthetic_fb_ads_undergarments.csv"
+  sample_mode: false
+
+thresholds:
+  roas_drop_alert: 0.15
+  min_spend_for_analysis: 100 
+  confidence_threshold: 0.7
+
+seed: 42 
+
+model:
+  name: "gpt-3.5-turbo"
+  temperature: 0.2
